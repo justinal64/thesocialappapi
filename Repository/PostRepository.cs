@@ -5,8 +5,9 @@ using MongoDB.Bson.Serialization;
 using System.Threading.Tasks;
 using System;
 using System.Diagnostics;
+using TheSocialAppApi.Models.PostModel;
 
-namespace IdentitySamples.Repository
+namespace TheSocialAppApi.Repository
 {
     public class PostsRepository
     {

@@ -1,8 +1,9 @@
 using System.Collections.Generic;
-using IdentitySamples.Repository;
+using TheSocialAppApi.Repository;
 using Microsoft.AspNetCore.Mvc;
 using System;
 using System.Threading.Tasks;
+using TheSocialAppApi.Models.PostModel;
 
 namespace IdentitySamples.Controllers
 {
