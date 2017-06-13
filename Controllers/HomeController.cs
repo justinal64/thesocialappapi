@@ -1,6 +1,6 @@
 using Microsoft.AspNetCore.Mvc;
 
-namespace IdentitySample.Controllers
+namespace TheSocialAppApi.Controllers
 {
     public class HomeController : Controller
     {

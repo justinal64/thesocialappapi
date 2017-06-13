@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace IdentitySample.Services
+namespace TheSocialAppApi.Services
 {
     public interface ISmsSender
     {

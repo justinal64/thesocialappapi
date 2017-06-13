@@ -4,11 +4,11 @@ using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Logging;
-using IdentitySample.Models.ManageViewModels;
-using IdentitySample.Services;
+using TheSocialAppApi.Models.ManageViewModels;
+using TheSocialAppApi.Services;
 using AspNetCore.Identity.MongoDB;
 
-namespace IdentitySamples.Controllers
+namespace TheSocialAppApi.Controllers
 {
 
     [Authorize]

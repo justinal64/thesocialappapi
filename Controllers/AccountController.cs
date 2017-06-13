@@ -6,11 +6,11 @@ using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.Rendering;
 using Microsoft.Extensions.Logging;
-using IdentitySample.Models.AccountViewModels;
-using IdentitySample.Services;
+using TheSocialAppApi.Models.AccountViewModels;
+using TheSocialAppApi.Services;
 using AspNetCore.Identity.MongoDB;
 
-namespace IdentitySample.Controllers
+namespace TheSocialAppApi.Controllers
 {
     [Authorize]
     public class AccountController : Controller
